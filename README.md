@@ -27,13 +27,18 @@ In my PhD research, I investigate **novel MTL approaches for Deep Neural Network
   [page](https://unibzmlgroup.github.io/SAMGS/) [code](https://github.com/ThomBors/samgs)  
   Published at **ECML PKDD 2025**
 
-- **NL**  
+- **MTL for Neurodegenerative diseases**  
   [code](https://github.com/ThomBors/MTLforMLNDs)  
   Published at **IEEE CAI 2026**
 
 - **Q-SYNTH**  
   [code](https://github.com/ThomBors/NLBSE2026)  
   Published at **NLBSE Workshop @ ICSE 2026**
+
+- **PAMGS**  
+  [page](https://unibzmlgroup.github.io/PAMGS/) [code](https://github.com/ThomBors/gs\_pinn)  
+  Accepted at **ACML 2026**
+  
 
 ---
 
